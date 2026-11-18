@@ -1,13 +1,14 @@
 # Graph Mining Course Project Proposal
 
-**Submission Date:** 2026  
-**Course:** Graph Mining [4041]  
+**Submission Date:** [18/11/2026]  
+**Course:** Graph Mining [4051]  
 **Instructor:** [Dr. Zeinab Maleki]  
 
 ## Student Information
-- **Student Name(s):** [Your Name]  
-- **Student ID(s):** [Your Student ID]  
-- **Email(s):** [Your Email]  
+- **Student Name(s):** [Mehdi Eftekhari , Kasra Navayineya]  
+- **Student ID(s):** [40415424 , 40414774]  
+- **Email(s):** [eftekhari.m@ec.iut.ac.ir , k.navayineya@ec.iut.ac.ir]  
+
 
 ## Project Title
 Graph Neural Network-Based Anomaly Detection in Healthcare Time Series: A Comparative Study of GraphSAGE and Multiplex Visibility Graph Analytics
